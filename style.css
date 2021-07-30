@@ -1,3 +1,5 @@
+/* Global */
+
 *{
     margin: 0%;
     padding: 0%;
@@ -34,6 +36,7 @@ a{
     font-weight: 400;
 }
 
+/* Price */
 .price{
     font-weight: 700;
 }
@@ -49,6 +52,7 @@ a{
     background-color: #027c33 ;
 }
 
+/* Rectangle */
 .rectangle{
     height: 2px;
     width: 200px;
@@ -59,11 +63,12 @@ a{
     width: 50px;
     margin-bottom: 10px;
 }
-/* nav background */
 
+/* nav background */
 .nav-bg{
     background-color: #4caf50;
 }
+
 /* banner background */
 .banner{
     background-color: #027c33;
