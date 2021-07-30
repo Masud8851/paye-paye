@@ -29,6 +29,10 @@ button{
     color: white;
 }
 
+a{
+    font-size: 20px;
+    font-weight: 400;
+}
 
 .price{
     font-weight: 700;
